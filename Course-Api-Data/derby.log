@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 28 12:53:39 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-dfc5-7e6b-000002244840 
+on database directory memory:E:\Backend dev\workspace\HibernateLearning\Course-Api-Data\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33833882 
+Loaded from file:/C:/Users/karinkato/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.4+11
+user.dir=E:\Backend dev\workspace\HibernateLearning\Course-Api-Data
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
